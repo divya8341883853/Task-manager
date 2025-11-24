@@ -1,13 +1,9 @@
-Understood — here is the same README **with all icons removed** and written in clean, professional plain text.
-
----
 
 # Human Resource Management System (HRMS)
 
 A full-stack Human Resource Management System built with Node.js, React.js, and a SQL database.
 The system allows organisations to securely manage employees, teams, and team assignments while maintaining a complete audit log of all actions.
 
----
 
 ## Features
 
@@ -51,7 +47,7 @@ Example log:
 [TIMESTAMP] User '3' assigned employee 10 to team 4.
 ```
 
----
+
 
 ## Tech Stack
 
@@ -75,7 +71,7 @@ Example log:
 * Docker / Docker Compose
 * Deployment on Render, Railway, or similar
 
----
+
 
 ## Project Structure
 
