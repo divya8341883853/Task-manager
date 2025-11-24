@@ -215,10 +215,3 @@ DELETE /api/teams/:teamId/unassign
 GET /api/logs
 ```
 
----
-
-
-
----
-
-If you want, I can also customize this README to match your exact project name, add diagrams, or convert it to a markdown file in canvas.
